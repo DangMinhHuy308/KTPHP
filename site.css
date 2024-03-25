@@ -1,0 +1,39 @@
+/* Trong file styles.css */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+}
+
+.menu {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.menu li {
+    display: inline;
+}
+
+.menu li a {
+    color: #333;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.menu li a:hover {
+    background-color: #555;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+label{
+    padding-left:5px ;
+}
